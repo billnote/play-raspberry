@@ -1,7 +1,7 @@
 #!/usr/bin/python
 import RPi.GPIO as GPIO
 import time
-channel =4 //GPIO4
+channel =4 #GPIO4
 data = []
 j = 0
 GPIO.setmode(GPIO.BCM)
